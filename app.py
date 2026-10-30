@@ -1,1 +1,5 @@
 print("HELLO WORLD")
+print(1+2)
+print(4+3)
+print("OUTPUT DISPLAYED!!!!!!")
+print("Completed the code")
